@@ -10,3 +10,4 @@ clave: administrador
 
 Luego crear un nuevo paciente, y una vez creado dar clic en el icono del Ojo para ver recomendación de salud. 
 
+URL Live:  https://historiaclinicainteliti.cajitadetrucos.com/auth/login
